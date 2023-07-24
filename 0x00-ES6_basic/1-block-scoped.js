@@ -1,5 +1,5 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-var */
+/* function taskFirst to instantiate variables using const */
+/* function taskNext to instantiate variables using let */
 export default function taskBlock(trueOrFalse) {
   var task = false;
   var task2 = true;
