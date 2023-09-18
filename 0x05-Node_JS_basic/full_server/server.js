@@ -1,7 +1,8 @@
-import express from 'express';
+const express = require('express');
 
 const app = express();
 const indexRouter = require('./routes/index');
+
 const port = 1245;
 
 app.listen(port);
