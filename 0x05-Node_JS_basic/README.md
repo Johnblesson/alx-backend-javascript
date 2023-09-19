@@ -1,1 +1,0 @@
-# This directory contains files for the Project: 0x05. NodeJS Basic
