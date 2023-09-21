@@ -1,4 +1,4 @@
-iconst { expect } = require('chai');
+const { expect } = require('chai');
 
 const getPaymentTokenFromApi = require('./6-payment_token');
 
